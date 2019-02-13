@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarotApplication", "TarotApplication\TarotApplication.csproj", "{F7AE1A6F-4483-44D6-B4DC-031FA3B29E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarotApplication.Tests", "TarotApplication.Tests\TarotApplication.Tests.csproj", "{D49797F3-5B6C-40F0-8ED1-D618C186C75F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7AE1A6F-4483-44D6-B4DC-031FA3B29E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AE1A6F-4483-44D6-B4DC-031FA3B29E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AE1A6F-4483-44D6-B4DC-031FA3B29E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AE1A6F-4483-44D6-B4DC-031FA3B29E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49797F3-5B6C-40F0-8ED1-D618C186C75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49797F3-5B6C-40F0-8ED1-D618C186C75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49797F3-5B6C-40F0-8ED1-D618C186C75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49797F3-5B6C-40F0-8ED1-D618C186C75F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537587A9-1119-43E5-9AA5-77A723332172}
+	EndGlobalSection
+EndGlobal
